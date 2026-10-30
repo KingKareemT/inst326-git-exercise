@@ -3,3 +3,10 @@ def hello():
 
 
 hello()
+
+
+def goodbye():
+    print("Goodbye from INST326!")
+
+
+goodbye()
